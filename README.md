@@ -1,4 +1,13 @@
-### Hi there 👋
+## William VanBuskirk 👋
+
+<h3 align="center">Digital Operations | Manufacturing | Machine Learning | Data Analytics | Python | Web Apps</h3>
+
+- 🔭 I’m currently working on **Dash / Plotly Web Apps**
+- 🌱 I’m currently learning **Flask - Python Web Development**
+- 👯 I’m looking to collaborate on **Manufacturing Proof of Concepts (IoT, Industry 4.0)**
+- 💬 Ask me about: **Industry 4.0**
+- 📫 How to reach me: williamvanbuskirk.com
+
 
 <!--
 **van-william/van-william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
