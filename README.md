@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flask - Python Web Development**
 - 👯 I’m looking to collaborate on **Manufacturing Proof of Concepts (IoT, Industry 4.0)**
 - 💬 Ask me about: **Industry 4.0**
-- 📫 How to reach me: williamvanbuskirk.com
+- 📫 How to reach me: **williamvanbuskirk.com**
 
 
 <!--
