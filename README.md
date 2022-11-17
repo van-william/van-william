@@ -12,7 +12,7 @@
 
 ### Specific Skill Summary
 #### Technical
-- Data Analytics & Visualization -- Python (Pandas, Numpy, Seaborn, Plotly, Jupyter), Alteryx, Tableau, PowerBI, QuickSight
+- Data Analytics & Visualization -- Python (Pandas, Numpy, Seaborn, Plotly, Jupyter), SQL, Alteryx, Tableau, PowerBI, QuickSight
 - Machine Learning -- Scikit-Learn, Tensorflow & Keras, Azure Machine Learning
 - Cloud Architecture -- Azure (Data Science, Data Engineering, IoT Certifications), AWS (Cloud Practitioner Certification)
 - Web App Development -- Flask, Dash, HTML, CSS
